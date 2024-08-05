@@ -1,4 +1,4 @@
-# this is and example project for testing based on vite and reacr
+# this is and example project for testing based on vite and react
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
