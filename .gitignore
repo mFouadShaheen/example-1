@@ -1,0 +1,32 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Dependencies
+node_modules/
+
+# Compiled output
+build
+
+# Test coverage
+coverage
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editors and IDEs
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Misc
+.yalc
+yalc.lock
+
+# stryker temp files
+.stryker-tmp
+settings.json
+
+.sonar_lock
+report-task.txt
